@@ -194,4 +194,7 @@ samsung-com.112.2o7.net
 analytics-api.samsunghealthcn.com
 
 # SF Notícias/Wordpress
-i0.wp.com
+i0.wp.com/sfnoticias.com.br/wp-content/uploads/2024/11/Celso-gas.png
+i0.wp.com/sfnoticias.com.br/wp-content/uploads/2023/10/SF-NOTICIA-2.png
+i0.wp.com/sfnoticias.com.br/wp-content/uploads/2023/05/Banner-SFNET.gif
+i0.wp.com/sfnoticias.com.br/wp-content/uploads/2024/12/ld-2.png
