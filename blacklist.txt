@@ -193,3 +193,5 @@ nmetrics.samsung.com
 samsung-com.112.2o7.net
 analytics-api.samsunghealthcn.com
 
+# SF Notícias
+i0.wp.com/sfnoticias.com.br
