@@ -204,8 +204,10 @@ sender.cleverwebserver.com
 lp.cleverwebserver.com
 rt.novibet.partners
 promo.novibet.bet.br
+onabet.cxclick.com
 
 i0.wp.com
+i0.wp.com/sfnoticias.com.br
 
 feed.buzzcdn.com
 server.gblcdn.com
