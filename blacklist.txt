@@ -211,3 +211,4 @@ i0.wp.com/sfnoticias.com.br
 
 feed.buzzcdn.com
 server.gblcdn.com
+googleads.g.doubleclick.net
