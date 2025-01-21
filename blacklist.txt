@@ -200,5 +200,12 @@ analytics-api.samsunghealthcn.com
 # SF Notícias
 cleveradvertising.com
 assets.cleverwebserver.com
+sender.cleverwebserver.com
+lp.cleverwebserver.com
+rt.novibet.partners
+promo.novibet.bet.br
+
 i0.wp.com
+
 feed.buzzcdn.com
+server.gblcdn.com
