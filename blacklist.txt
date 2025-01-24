@@ -90,6 +90,18 @@ app.getsentry.com
 # Facebook
 pixel.facebook.com
 an.facebook.com
+ads.facebook.com
+0-0-ads-transparency.facebookbrand-2018-dev.fb.com
+0-0-ads-transparency-071ee8838b58fac5.facebookbrand-2018-dev.fb.com
+0-0-ads-transparency-0fs1tf300gayrettepexrst2104bagcilart31.facebookbrand-2018-dev.fb.com
+0-0-ads-transparency-5p2qz.facebookbrand-2018-dev.fb.com
+0-0-ads-transparency-mrc53.facebookbrand-2018-dev.fb.com
+0-0-ads-transparency-nai92.facebookbrand-2018-dev.fb.com
+0-0-ads-transparencycob87-1-88-179-90-136.facebookbrand-2018-dev.fb.com
+sheleadstechin.fb.com
+ads.fbsbx.com
+testcloud02ads.messenger.com
+orgads-dev.fb.me
 
 # Twitter
 static.ads-twitter.com
