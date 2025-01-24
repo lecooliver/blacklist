@@ -102,6 +102,19 @@ sheleadstechin.fb.com
 ads.fbsbx.com
 testcloud02ads.messenger.com
 orgads-dev.fb.me
+vaccinetracker.beta.facebook.com
+traceroute-fbonly-bgp-01-fco1.dns.facebook.com
+2fh9l6gj.traceroute-fbonly-bgp-01-fco1.dns.facebook.com
+o-traceroute-fna-bgp-02-fjed5.lite.facebook.com
+zer.o-traceroute-fna-bgp-02-fjed5.lite.facebook.com
+it-it.zer.o-traceroute-fna-bgp-02-fjed5.lite.facebook.com
+trac.facebook.com
+traceroute-fbonly-bgp-01-lis1.facebook.com
+traceroute-fbonly-bgp-01-maa2.facebook.com
+traceroute-fbonly-bgp-02-sof1.facebook.com
+emailtrack.oculusvr.com
+axonitered.gina.emailtrack.oculusvr.com
+traceroute-fna-bgp-01-fzzz1.fbcdn.net
 
 # Twitter
 static.ads-twitter.com
